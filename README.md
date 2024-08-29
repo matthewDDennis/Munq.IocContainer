@@ -12,11 +12,6 @@ Copyright 2009 by Matthew Dennis
 All formatting, additions and alterations Copyright © CodeProject, 1999-2024
 -->
 
-
-
-<p><b>Please choose 'View Source' in your browser to view the HTML, or File | Save to save this 
-file to your hard drive for editing.</b></p>
-
 <hr class="Divider subdue" />
 <div>
 
