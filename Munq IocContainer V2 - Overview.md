@@ -3,10 +3,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Article Source</title>
-<link rel="stylesheet" type="text/css" 
-    href="https://codeproject.freetls.fastly.net/App_Themes/CodeProject/Css/Main.css?dt=2.8:2024-07-22:1" />
-<base href="https://www.codeproject.com/KB/aspnet/" />
 </head>
 <body>
 <!--
