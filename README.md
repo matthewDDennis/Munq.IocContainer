@@ -12,7 +12,6 @@ Copyright 2009 by Matthew Dennis
 All formatting, additions and alterations Copyright © CodeProject, 1999-2024
 -->
 
-<hr class="Divider subdue" />
 <div>
 
 
