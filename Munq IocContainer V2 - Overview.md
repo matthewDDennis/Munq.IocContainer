@@ -26,10 +26,6 @@ All formatting, additions and alterations Copyright © CodeProject, 1999-2024
 <ul>
 <li>Downloading the code </li><li>Overview </li><li>What is Munq IocContainer </li><li>Using Munq IocContainer </li><li>Registering Factory Methods </li><li>Obtaining an Instance from the IocContainer </li><li>Initializing the IocContainer </li><li>Lifetime Management </li></ul>
 
-<h2>Downloading the Code</h2>
-
-<p>The code is maintained at <a href="http://munq.codeplex.com/" target="_blank">CodePlex</a>.&nbsp; The latest release can be found <a href="http://munq.codeplex.com/releases/view/45775" target="_blank">here</a>.</p>
-
 <h2>Overview</h2>
 
 <p>This post is the first of several heralding the release of the first beta of the second release <strong>Munq</strong> <strong>IocContainer</strong>. In previous posts, <a href="http://rattlingaroundmybrain.spaces.live.com/Blog/cns!99CC0775D5794768!211.entry" target="_blank">Introduction to Munq IOC Container for ASP.NET</a> and <a href="http://rattlingaroundmybrain.spaces.live.com/Blog/cns!99CC0775D5794768!215.entry" target="_blank">Using Munq IOC with ASP.NET MVC 2 Preview 2</a>, I introduced an IOC Container that is high performance and designed for ASP.NET.&nbsp; This latest release fixes a number of small issues and adds functionality without sacrificing any of the performance.&nbsp; Unit tests were created to ensure the quality and correctness of the implement.&nbsp; I felt this was critical as several people have enquired about using <strong>Munq IocContainer</strong> in production code.</p>
