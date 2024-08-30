@@ -288,8 +288,4 @@ public Container UsesDefaultLifetimeManagerOf(ILifetimeManager lifetimeManager)<
 
 <p>I have given you a brief overview of the Munq DI IOC and its API. I will be following this with additional articles with examples of using Munq and dissecting the Munq code.</p>
 
-<p>The full source for Munq is available on <a href="http://www.codeplex.com/" target="_blank">CodePlex</a> at <a href="http://munq.codeplex.com/">http://munq.codeplex.com</a>.</p>
-
 <div style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">del.icio.us Tags: <a href="http://del.icio.us/popular/codeproject" rel="tag">codeproject</a>, <a href="http://del.icio.us/popular/DI" rel="tag">DI</a>, <a href="http://del.icio.us/popular/IOC" rel="tag">IOC</a>, <a href="http://del.icio.us/popular/C%23" rel="tag">C#</a>, <a href="http://del.icio.us/popular/ASP.NET+MVC" rel="tag">ASP.NET MVC</a>, <a href="http://del.icio.us/popular/ASP.NET" rel="tag">ASP.NET</a></div>
-
-<p><a href="http://rattlingaroundmybrain.spaces.live.com/blog/" rel="tag">CodeProject</a></p>
